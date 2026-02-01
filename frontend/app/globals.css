@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+
+  /* Font Aliases */
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui;
+  --font-serif: var(--font-geist-mono), ui-serif, Georgia;
+}
+
+/* @theme inline {
+   removed custom theme to avoid conflicts with Tailwind v4 defaults
+   using standard utility classes (green-*, stone-*) instead.
+} */
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
