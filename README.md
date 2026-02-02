@@ -8,6 +8,12 @@ Redefining plant ownership through community stewardship
 > 🏆 Built for the ETH ChiangMai hackathon
 2026
 
+# [Demo](https://nomadic-plants.vercel.app/)
+
+## Contracts
+
+[PlantRegistry](https://sepolia.etherscan.io/address/0x711a471eda605c9cfb2e1534e52d0930c647de5b)
+[StewardBadge](https://sepolia.etherscan.io/address/0xdd9894f665e1400cfad2c8455ec1384579848a96)
 
 ## 📖 The Vision
 
