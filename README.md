@@ -14,6 +14,8 @@ Redefining plant ownership through community stewardship
 
 # [Business Plan](https://docs.google.com/document/d/1uL61lS7lswtgbZ_gmGP6WxgAdc1iK7LEnafWCEL35s8/edit?usp=drive_link)
 
+# [NFT Collection](https://opensea.io/collection/nomadic-plants)
+
 # Contracts
 
 ## [PlantRegistry](https://sepolia.etherscan.io/address/0x711a471eda605c9cfb2e1534e52d0930c647de5b)
