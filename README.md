@@ -10,10 +10,15 @@ Redefining plant ownership through community stewardship
 
 # [Demo](https://nomadic-plants.vercel.app/)
 
-## Contracts
+# [Video Demo](https://www.loom.com/share/1533b7ae21b44b59a60abc2e7181f8b9)
 
-[PlantRegistry](https://sepolia.etherscan.io/address/0x711a471eda605c9cfb2e1534e52d0930c647de5b)
-[StewardBadge](https://sepolia.etherscan.io/address/0xdd9894f665e1400cfad2c8455ec1384579848a96)
+# [Business Plan](https://docs.google.com/document/d/1uL61lS7lswtgbZ_gmGP6WxgAdc1iK7LEnafWCEL35s8/edit?usp=drive_link)
+
+# Contracts
+
+## [PlantRegistry](https://sepolia.etherscan.io/address/0x711a471eda605c9cfb2e1534e52d0930c647de5b)
+
+## [StewardBadge](https://sepolia.etherscan.io/address/0xdd9894f665e1400cfad2c8455ec1384579848a96)
 
 ## 📖 The Vision
 
